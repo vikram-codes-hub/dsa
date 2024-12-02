@@ -1,0 +1,1 @@
+    head = insertattail(head,3); 
